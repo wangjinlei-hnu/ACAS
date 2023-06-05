@@ -1,0 +1,1 @@
+# Adaptive-collision-avoidance-strategy-for-autonomous-vehicle-under-various-road-friction-and-speed
